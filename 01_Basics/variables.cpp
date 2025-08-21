@@ -29,3 +29,7 @@ int main(){
 
     return 0; // Return 0 to indicate successful execution
 }
+
+// Note:
+// To cocompile this code, make sure you are in the correct directory and use the following command:
+// g++ -o variables variables.cpp or clang++ -o variables variables.cpp
