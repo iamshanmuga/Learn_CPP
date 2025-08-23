@@ -1,3 +1,8 @@
+/**************************************************************************************************************/
+/* This program demonstrates the declaration and initialization of variables with different data types in C++ */
+/* It also prints the range of values that can be stored in each data type using the numeric_limits library.  */
+/**************************************************************************************************************/
+
 #include <iostream>           // Include the iostream library for input/output operations
 #include <limits>             // Include the limits library for numeric limits of data types
 #include <string>             // Include the string library for using string data type
