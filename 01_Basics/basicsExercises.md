@@ -5,7 +5,7 @@ Each exercise is written like a **User Story / Bug Report** to simulate actual d
 
 ---
 
-## 📝 [EX001 - Basic Exercise - Variables & Data types](https://github.com/users/iamshanmuga/projects/3/views/1?pane=issue&itemId=125638785)  
+## 📝 Exercise 1 - Variables & Data types 
 **User Story**:  
 As a **developer**, I want to build a small program that asks the user for their **name, age, height, and GPA**, so that I can store different types of data and print them back neatly.  
 
