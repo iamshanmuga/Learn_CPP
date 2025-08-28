@@ -1,18 +1,7 @@
 /***************************************************************************************************/
 /* This Program is a solution to the exercise: EX005 (within 01_Basics/basicsExercises.md)         */
-/* It demonstrates the use of a conditionals in C++          */
+/* It demonstrates the use of a conditionals in C++                                                */
 /***************************************************************************************************/ 
-
-// As a bank system, I want to determine if a user is eligible for a loan, so that I can give quick approvals.
-// Acceptance Criteria:
-
-// Ask for: age, annual income, and credit score.
-// Conditions:
-// Must be ≥ 18 years old.
-// Income ≥ 30,000.
-// Credit score ≥ 650.
-// Use if/else if/else to check eligibility.
-// Print "Approved" or "Rejected" with reasons.
 
 #include <iostream> // Include the iostream library for input/output operations
 #include <stdexcept> // Include the stdexcept library for exception handling
