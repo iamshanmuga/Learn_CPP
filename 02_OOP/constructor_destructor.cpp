@@ -1,5 +1,5 @@
 /**********************************************************************************/
-/* This program demonstrates the concept of Constructors and Destructors in C++  */
+/* This program demonstrates the concept of Constructors and Destructors in C++   */
 /**********************************************************************************/
 
 #include <iostream>           // Include the iostream library for input/output operations
