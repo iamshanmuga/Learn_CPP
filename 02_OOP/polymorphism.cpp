@@ -1,7 +1,7 @@
 /*******************************************************************************************/
 /* This program demonstrates the concept of Polymorphism in C++                            */
 /*-----------------------------------------------------------------------------------------*/
-/* There are two main types:                                                               */                       
+/* There are two main types:                                                               */      
 /*	1.	Compile-Time Polymorphism (Static Binding)                                         */
 /*	    •	Achieved by function overloading (same name, different parameters).            */
 /*	    •	Achieved by operator overloading.                                              */
